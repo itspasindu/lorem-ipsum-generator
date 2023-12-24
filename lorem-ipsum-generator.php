@@ -3,7 +3,7 @@
 Plugin Name: Lorem Ipsum Generator
 Description: A simple Lorem Ipsum text generator for WordPress.
 Version: 1.0
-Author: Your Name
+Author: Pasindu Dewviman
 */
 
 function lorum_ipsum_generator_shortcode($atts) {
